@@ -1,7 +1,7 @@
 {
   "source_title": "Lunacy Reform. IV, The Right of the Insane to Liberty",
   "title_zh": "《精神病院改革》第四篇：精神病患的自由權（1880）",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "language": "en",
   "catalogue": "https://archive.org/details/101502123.nlm.nih.gov",
   "manifest": "https://archive.org/metadata/101502123.nlm.nih.gov",
@@ -34,9 +34,34 @@
           "status": "transcribed",
           "units": [
             {
-              "kind": "prose",
-              "text": "LUNACY REFORM\n\nIV\n\nTHE RIGHT OF THE INSANE TO LIBERTY\n\nBY\n\nE. C. SEGUIN, M.D.\n\nONE OF THE CONSULTING PHYSICIANS TO THE HUDSON RIVER\nSTATE HOSPITAL FOR THE INSANE, ETC.\n\n[Reprinted from the ARCHIVES OF MEDICINE, August, 1880]\n\nNEW YORK\nG. P. PUTNAM’S SONS\n182 FIFTH AVENUE\n1880",
+              "kind": "heading",
+              "text": "LUNACY REFORM\nIV\nTHE RIGHT OF THE INSANE TO LIBERTY",
               "id": "f001-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "BY",
+              "id": "f001-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "E. C. SEGUIN, M.D.",
+              "id": "f001-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "ONE OF THE CONSULTING PHYSICIANS TO THE HUDSON RIVER\nSTATE HOSPITAL FOR THE INSANE, ETC.",
+              "id": "f001-s-u04"
+            },
+            {
+              "kind": "text",
+              "text": "[Reprinted from the ARCHIVES OF MEDICINE, August, 1880]",
+              "id": "f001-s-u05"
+            },
+            {
+              "kind": "text",
+              "text": "NEW YORK\nG. P. PUTNAM’S SONS\n182 FIFTH AVENUE\n1880",
+              "id": "f001-s-u06"
             }
           ],
           "notes": [
@@ -92,9 +117,59 @@
           "status": "transcribed",
           "units": [
             {
-              "kind": "prose",
-              "text": "LUNACY REFORM.\n\nIV.\n\nTHE RIGHT OF THE INSANE TO LIBERTY.*\n\n“The true principle to guide our practice should be this,—that no one, sane\nor insane, should ever be entirely deprived of his liberty, unless for his own\nprotection or for the protection of society.”\n\nHENRY MAUDSLEY.\n\nIt is fair to say that, in the present state of psychiatry in Amer-\nica, to be pronounced insane by physicians, by a judge, or by a\njury, means imprisonment for months, for years, or for life. To\nput it in another way, there is a disease which reduces its victims\nto a level with persons accused of crime, and exposes them to\nloss of liberty, property and happiness.\n\nIs this just? Is this worthy of a country like ours, which aims\nto be foremost in works of philanthropy, and preëminent as re-\ngards individual liberty?\n\nLet us review the facts of medico-legal practice in the State of\nNew York, on which these statements rest.\n\n1. A man has acute mania, he becomes unmanageable at\nhome, is dangerous to himself and to others. This man is sum-\nmarily placed in a carriage, taken to an asylum and locked in\nwithout any process of law. Before a certain time has elapsed\nafter his reception (five days), certificates duly executed before a\n\n* Read before the National Conference of Charities and Corrections at\nCleveland, Ohio, on Thursday July 1, 1880.\n\nReprinted from the ARCHIVES OF MEDICINE, Vol. iv, No. 1. August, 1880.",
+              "kind": "heading",
+              "text": "LUNACY REFORM.",
               "id": "f003-s-u01"
+            },
+            {
+              "kind": "heading",
+              "text": "IV.",
+              "id": "f003-s-u02"
+            },
+            {
+              "kind": "heading",
+              "text": "THE RIGHT OF THE INSANE TO LIBERTY.*",
+              "id": "f003-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "“The true principle to guide our practice should be this,—that no one, sane\nor insane, should ever be entirely deprived of his liberty, unless for his own\nprotection or for the protection of society.”",
+              "id": "f003-s-u04"
+            },
+            {
+              "kind": "text",
+              "text": "HENRY MAUDSLEY.",
+              "id": "f003-s-u05"
+            },
+            {
+              "kind": "text",
+              "text": "It is fair to say that, in the present state of psychiatry in Amer-\nica, to be pronounced insane by physicians, by a judge, or by a\njury, means imprisonment for months, for years, or for life. To\nput it in another way, there is a disease which reduces its victims\nto a level with persons accused of crime, and exposes them to\nloss of liberty, property and happiness.",
+              "id": "f003-s-u06"
+            },
+            {
+              "kind": "text",
+              "text": "Is this just? Is this worthy of a country like ours, which aims\nto be foremost in works of philanthropy, and preëminent as re-\ngards individual liberty?",
+              "id": "f003-s-u07"
+            },
+            {
+              "kind": "text",
+              "text": "Let us review the facts of medico-legal practice in the State of\nNew York, on which these statements rest.",
+              "id": "f003-s-u08"
+            },
+            {
+              "kind": "text",
+              "text": "1. A man has acute mania, he becomes unmanageable at\nhome, is dangerous to himself and to others. This man is sum-\nmarily placed in a carriage, taken to an asylum and locked in\nwithout any process of law. Before a certain time has elapsed\nafter his reception (five days), certificates duly executed before a",
+              "id": "f003-s-u09"
+            },
+            {
+              "kind": "footnote",
+              "text": "* Read before the National Conference of Charities and Corrections at\nCleveland, Ohio, on Thursday July 1, 1880.",
+              "id": "f003-s-u10"
+            },
+            {
+              "kind": "footnote",
+              "text": "Reprinted from the ARCHIVES OF MEDICINE, Vol. iv, No. 1. August, 1880.",
+              "id": "f003-s-u11"
             }
           ],
           "notes": [
@@ -124,9 +199,39 @@
           "status": "transcribed",
           "units": [
             {
-              "kind": "prose",
-              "text": "E. C. SEGUIN.\n\njudge of a court of record must be furnished to the superinten-\ndent of the asylum as a justification for further detention.\n\nViewed without prejudice, this course seems the only one which\ncan be pursued, and consequently we deem it right. For to wait\nmany hours or several days for all the legal forms of commitment\nto be executed, might endanger the life of the patient or of those\nabout him. Still it must be remembered that such cases of very\nsevere acute mania are rare. In most cases a delay of twenty-\nfour hours can do no harm.\n\n2. The same patient recovers in greater part; he becomes\nquiet, and, with the exception of an occasional false notion and a\ndegree of mental enfeeblement, is like most well men. Yet by\nvirtue of the power of the original commitment this man is kept\nconfined to the asylum, he is yet a prisoner. If he wishes to walk,\nor to breathe fresh air, or to attempt some little out-door work,\ndoors must be unlocked to let him pass, and when he returns to\nhis room or ward he is locked in for the night. And this stage of\npartial recovery may last almost indefinitely. The sole power of\ndischarge rests in the judgment and hands of a single man, the\nsuperintendent; the patient is practically under a most singular\nform of tyranny for any enlightened State to permit to flourish.\n\nNo matter how scientific or how good a man the superintendent\nmay be, I hold that this degree of authority, of uncontrolled au-\nthority over the liberty of citizens, ought not to be allowed.\n\n3. The same sort of a case, i.e., one of acute mania, terminates\nunfavorably. The delirium is transformed into a group of more\nor less fixed delusions, kept up by hallucinations; the memory\nand judgment are fatally impaired, in other words, secondary de-\nmentia is established. If, as in innumerable cases now in asy-\nlums, the delusions of the patient are not delusions of persecution\nor of any other form likely to lead to an outbreak of violence or\ndestructiveness, is it right to keep this patient in the more or less\ncostly and elegant prisons we call asylums?\n\nWhy should not this remains of a man enjoy freedom under a\ncertain supervision? Why should he not be allowed to go and\ncome as he pleases and to have what little pleasure there remains\nfor him in life?",
+              "kind": "running-head",
+              "text": "E. C. SEGUIN.",
               "id": "f004-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "judge of a court of record must be furnished to the superinten-\ndent of the asylum as a justification for further detention.",
+              "id": "f004-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "Viewed without prejudice, this course seems the only one which\ncan be pursued, and consequently we deem it right. For to wait\nmany hours or several days for all the legal forms of commitment\nto be executed, might endanger the life of the patient or of those\nabout him. Still it must be remembered that such cases of very\nsevere acute mania are rare. In most cases a delay of twenty-\nfour hours can do no harm.",
+              "id": "f004-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "2. The same patient recovers in greater part; he becomes\nquiet, and, with the exception of an occasional false notion and a\ndegree of mental enfeeblement, is like most well men. Yet by\nvirtue of the power of the original commitment this man is kept\nconfined to the asylum, he is yet a prisoner. If he wishes to walk,\nor to breathe fresh air, or to attempt some little out-door work,\ndoors must be unlocked to let him pass, and when he returns to\nhis room or ward he is locked in for the night. And this stage of\npartial recovery may last almost indefinitely. The sole power of\ndischarge rests in the judgment and hands of a single man, the\nsuperintendent; the patient is practically under a most singular\nform of tyranny for any enlightened State to permit to flourish.",
+              "id": "f004-s-u04"
+            },
+            {
+              "kind": "text",
+              "text": "No matter how scientific or how good a man the superintendent\nmay be, I hold that this degree of authority, of uncontrolled au-\nthority over the liberty of citizens, ought not to be allowed.",
+              "id": "f004-s-u05"
+            },
+            {
+              "kind": "text",
+              "text": "3. The same sort of a case, i.e., one of acute mania, terminates\nunfavorably. The delirium is transformed into a group of more\nor less fixed delusions, kept up by hallucinations; the memory\nand judgment are fatally impaired, in other words, secondary de-\nmentia is established. If, as in innumerable cases now in asy-\nlums, the delusions of the patient are not delusions of persecution\nor of any other form likely to lead to an outbreak of violence or\ndestructiveness, is it right to keep this patient in the more or less\ncostly and elegant prisons we call asylums?",
+              "id": "f004-s-u06"
+            },
+            {
+              "kind": "text",
+              "text": "Why should not this remains of a man enjoy freedom under a\ncertain supervision? Why should he not be allowed to go and\ncome as he pleases and to have what little pleasure there remains\nfor him in life?",
+              "id": "f004-s-u07"
             }
           ],
           "notes": []
@@ -154,9 +259,44 @@
           "status": "transcribed",
           "units": [
             {
-              "kind": "prose",
-              "text": "THE RIGHT OF THE INSANE TO LIBERTY.\n\nLet us make a further supposition, which is perfectly in accord\nwith cases daily observed. If this harmless dement have prop-\nerty of his own, why should not this property be used to provide\nhim with a suitable mode of life, and expended in reasonable\namount for his benefit? There is good reason to believe that\nmany such patients are kept in asylums, private or public, indefi-\nnitely, unprovided with the luxuries or quasi-luxuries to which\nthey are entitled. After a few years of patience on the part of\nthe relatives, and of more or less conscious misery on the part of\nthe patient, the disease ends in death, and the carefully pre-\nserved property of the deceased is duly apportioned among heirs.\n\n4. A woman drifts through domestic trouble, semi-starvation,\ninto a state of cerebral mal-nutrition and anæmia, delusions of a\nmelancholic type appear, together with a depression and sadness\nwhich cannot be reacted against.\n\nIs it right to imprison such a woman, to place her actually un-\nder lock and key for months?\n\nIn some cases I am willing to admit that it is justifiable, but in\nthe majority of cases I believe that such a procedure is unjust,\nmorally and legally, and decidedly opposed to the patient’s re-\ncovery.\n\nTo decide which cases belong to the former category and which\nto the latter, and to judge when a given case passes from one cat-\negory into the other, requires, I admit, careful observation and\nripe judgment, but not more, I am prepared to maintain, than do\nmany other problems in medicine and surgery which are decided\nevery day in our midst with average good success.\n\n5. Cases of primary dementia occur frequently in both middle-\naged and old people. Many such patients are simply foolish, but\nquite harmless. Why are they sent to asylums except for safe\nkeeping, because of the lack of relatives, or because of pecuniary\ninability of friends to take care of the deteriorating member of\nthe family, or lastly, pretty often, I fear, because of unwillingness\nto keep the patient at home?\n\nIn all these three categories I believe that confinement under\nthe present asylum system is unjustifiable, legally and morally.",
+              "kind": "running-head",
+              "text": "THE RIGHT OF THE INSANE TO LIBERTY.",
               "id": "f005-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "Let us make a further supposition, which is perfectly in accord\nwith cases daily observed. If this harmless dement have prop-\nerty of his own, why should not this property be used to provide\nhim with a suitable mode of life, and expended in reasonable\namount for his benefit? There is good reason to believe that\nmany such patients are kept in asylums, private or public, indefi-\nnitely, unprovided with the luxuries or quasi-luxuries to which\nthey are entitled. After a few years of patience on the part of\nthe relatives, and of more or less conscious misery on the part of\nthe patient, the disease ends in death, and the carefully pre-\nserved property of the deceased is duly apportioned among heirs.",
+              "id": "f005-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "4. A woman drifts through domestic trouble, semi-starvation,\ninto a state of cerebral mal-nutrition and anæmia, delusions of a\nmelancholic type appear, together with a depression and sadness\nwhich cannot be reacted against.",
+              "id": "f005-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "Is it right to imprison such a woman, to place her actually un-\nder lock and key for months?",
+              "id": "f005-s-u04"
+            },
+            {
+              "kind": "text",
+              "text": "In some cases I am willing to admit that it is justifiable, but in\nthe majority of cases I believe that such a procedure is unjust,\nmorally and legally, and decidedly opposed to the patient’s re-\ncovery.",
+              "id": "f005-s-u05"
+            },
+            {
+              "kind": "text",
+              "text": "To decide which cases belong to the former category and which\nto the latter, and to judge when a given case passes from one cat-\negory into the other, requires, I admit, careful observation and\nripe judgment, but not more, I am prepared to maintain, than do\nmany other problems in medicine and surgery which are decided\nevery day in our midst with average good success.",
+              "id": "f005-s-u06"
+            },
+            {
+              "kind": "text",
+              "text": "5. Cases of primary dementia occur frequently in both middle-\naged and old people. Many such patients are simply foolish, but\nquite harmless. Why are they sent to asylums except for safe\nkeeping, because of the lack of relatives, or because of pecuniary\ninability of friends to take care of the deteriorating member of\nthe family, or lastly, pretty often, I fear, because of unwillingness\nto keep the patient at home?",
+              "id": "f005-s-u07"
+            },
+            {
+              "kind": "text",
+              "text": "In all these three categories I believe that confinement under\nthe present asylum system is unjustifiable, legally and morally.",
+              "id": "f005-s-u08"
             }
           ],
           "notes": []
@@ -184,9 +324,44 @@
           "status": "transcribed",
           "units": [
             {
-              "kind": "prose",
-              "text": "E. C. SEGUIN.\n\nWhat right have we to bar a man’s window and keep him all\nday, or a part of the day, for months and years, under lock and\nkey, because he is simple or foolish, or, to put it technically, de-\nmented?\n\nThe pauper insane of the harmless demented class must, I sup-\npose, be aggregated in institutions, preferably under medical super-\nvision if not medical control, but have we not the right to demand\nthat these unfortunates shall have the maximum of personal lib-\nerty consistent with safety to themselves and others; that they\nshall be both employed and amused in an inexpensive manner?\nMust we not remember that so long as any reason survives, per-\nhaps longer, the animal capacity for simple enjoyment persists?\nHow many hundred chronic insane in this nation are quite cap-\nable of enjoying a game of cards or dominoes, bowling, a pipe of\ntobacco, etc., in comparative freedom, under a surveillance that\nneed not at all resemble the present prison-like manner of watch-\ning patients in asylums?\n\n6. Epileptic and hysteric patients are not rarely detained in\nasylums without justification. I have had personal knowledge\nof such cases.\n\nThe alleged cause of certification originally, and of unlimited\ndetention afterward at the request of relatives, is some psychical\ndisorder which, in a majority of cases, is temporary, and quite\nas much under the control of a physician as of a superin-\ntendent.\n\nI do not, let it be clearly understood, mean to say that such\ncases should not be sent to institutions, but I protest most ener-\ngetically against their commitment to prison-like asylums, to their\nforced association with the insane, and their subjection to the im-\nperfect medical treatment which obtains in most asylums.\n\nRemoval from home often does much good in these diseases,\nand is a sine qua non to recovery in certain cases of hysteria; but\nfrom this statement to the present evil practice of judicial com-\nmitment and locking up there is a vast gulf—a gulf as deep and\nwide as is the great human right to personal liberty.\n\nI do not mean to refer in detail to a last class of cases, viz.,",
+              "kind": "running-head",
+              "text": "E. C. SEGUIN.",
               "id": "f006-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "What right have we to bar a man’s window and keep him all\nday, or a part of the day, for months and years, under lock and\nkey, because he is simple or foolish, or, to put it technically, de-\nmented?",
+              "id": "f006-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "The pauper insane of the harmless demented class must, I sup-\npose, be aggregated in institutions, preferably under medical super-\nvision if not medical control, but have we not the right to demand\nthat these unfortunates shall have the maximum of personal lib-\nerty consistent with safety to themselves and others; that they\nshall be both employed and amused in an inexpensive manner?\nMust we not remember that so long as any reason survives, per-\nhaps longer, the animal capacity for simple enjoyment persists?\nHow many hundred chronic insane in this nation are quite cap-\nable of enjoying a game of cards or dominoes, bowling, a pipe of\ntobacco, etc., in comparative freedom, under a surveillance that\nneed not at all resemble the present prison-like manner of watch-\ning patients in asylums?",
+              "id": "f006-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "6. Epileptic and hysteric patients are not rarely detained in\nasylums without justification. I have had personal knowledge\nof such cases.",
+              "id": "f006-s-u04"
+            },
+            {
+              "kind": "text",
+              "text": "The alleged cause of certification originally, and of unlimited\ndetention afterward at the request of relatives, is some psychical\ndisorder which, in a majority of cases, is temporary, and quite\nas much under the control of a physician as of a superin-\ntendent.",
+              "id": "f006-s-u05"
+            },
+            {
+              "kind": "text",
+              "text": "I do not, let it be clearly understood, mean to say that such\ncases should not be sent to institutions, but I protest most ener-\ngetically against their commitment to prison-like asylums, to their\nforced association with the insane, and their subjection to the im-\nperfect medical treatment which obtains in most asylums.",
+              "id": "f006-s-u06"
+            },
+            {
+              "kind": "text",
+              "text": "Removal from home often does much good in these diseases,\nand is a sine qua non to recovery in certain cases of hysteria; but\nfrom this statement to the present evil practice of judicial com-\nmitment and locking up there is a vast gulf—a gulf as deep and\nwide as is the great human right to personal liberty.",
+              "id": "f006-s-u07"
+            },
+            {
+              "kind": "text",
+              "text": "I do not mean to refer in detail to a last class of cases, viz.,",
+              "id": "f006-s-u08"
             }
           ],
           "notes": []
@@ -214,9 +389,54 @@
           "status": "transcribed",
           "units": [
             {
-              "kind": "prose",
-              "text": "THE RIGHT OF THE INSANE TO LIBERTY.\n\nthose in which a sane person is fraudulently imprisoned as insane\nunder our present imperfect laws.\n\nI firmly believe that such cases are extremely rare, and from\nmy personal knowledge of many of the superintendents of insane\nasylums, I do not believe that any of those gentlemen would for\none moment countenance such a procedure.\n\nI trust that I have made myself understood.\n\nWith many others, some of them to be cited further on, I be-\nlieve:\n\na. That a large number of the inmates of asylums could be\ntaken care of with open doors and unbarred windows, and, of\ncourse, without restraining apparatus.\n\nb. That many insane now confined in our asylums could be\ntrusted almost implicitly to go and come at will, could be given\nnominally remunerative occupation, and, above all, could be pro-\nvided with simple amusements suited to their stations in life (and\nI do not refer to costly stereopticons, or the solitary billiard table,\nor the lectures, to which superintendents now refer with so much\ncomplaisance).\n\nc. That the phases of insanity should be watched more closely\nwith especial reference to early discharge of a patient, to his\ntransfer to another institution, to the amount of liberty allowed\nhim, etc. And I do not think it safe to leave this power wholly\nin the hands of the superintendent.\n\nd. That the time has come to look around and attempt in this\ncountry the English and Scotch plan of placing harmless insane\npersons singly in the families of farmers and of others willing to\nundertake the task under frequent and efficient visitation.\n\nThere is not, I dare say, a single county in the State of New\nYork where a number of harmless chronic or even sub-acute cases\nof insanity might not be safely and happily treated or kept in fam-\nilies, and where a good yet just and firm country doctor could\nnot be found to visit a dozen or more of these patients occasion-\nally and unexpectedly, and keep a strict watch over their health\nand happiness, reporting fully to the State Commissioner or Com-\nmissioners of Lunacy, or to a special general inspecting official.",
+              "kind": "running-head",
+              "text": "THE RIGHT OF THE INSANE TO LIBERTY.",
               "id": "f007-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "those in which a sane person is fraudulently imprisoned as insane\nunder our present imperfect laws.",
+              "id": "f007-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "I firmly believe that such cases are extremely rare, and from\nmy personal knowledge of many of the superintendents of insane\nasylums, I do not believe that any of those gentlemen would for\none moment countenance such a procedure.",
+              "id": "f007-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "I trust that I have made myself understood.",
+              "id": "f007-s-u04"
+            },
+            {
+              "kind": "text",
+              "text": "With many others, some of them to be cited further on, I be-\nlieve:",
+              "id": "f007-s-u05"
+            },
+            {
+              "kind": "text",
+              "text": "a. That a large number of the inmates of asylums could be\ntaken care of with open doors and unbarred windows, and, of\ncourse, without restraining apparatus.",
+              "id": "f007-s-u06"
+            },
+            {
+              "kind": "text",
+              "text": "b. That many insane now confined in our asylums could be\ntrusted almost implicitly to go and come at will, could be given\nnominally remunerative occupation, and, above all, could be pro-\nvided with simple amusements suited to their stations in life (and\nI do not refer to costly stereopticons, or the solitary billiard table,\nor the lectures, to which superintendents now refer with so much\ncomplaisance).",
+              "id": "f007-s-u07"
+            },
+            {
+              "kind": "text",
+              "text": "c. That the phases of insanity should be watched more closely\nwith especial reference to early discharge of a patient, to his\ntransfer to another institution, to the amount of liberty allowed\nhim, etc. And I do not think it safe to leave this power wholly\nin the hands of the superintendent.",
+              "id": "f007-s-u08"
+            },
+            {
+              "kind": "text",
+              "text": "d. That the time has come to look around and attempt in this\ncountry the English and Scotch plan of placing harmless insane\npersons singly in the families of farmers and of others willing to\nundertake the task under frequent and efficient visitation.",
+              "id": "f007-s-u09"
+            },
+            {
+              "kind": "text",
+              "text": "There is not, I dare say, a single county in the State of New\nYork where a number of harmless chronic or even sub-acute cases\nof insanity might not be safely and happily treated or kept in fam-\nilies, and where a good yet just and firm country doctor could\nnot be found to visit a dozen or more of these patients occasion-\nally and unexpectedly, and keep a strict watch over their health\nand happiness, reporting fully to the State Commissioner or Com-\nmissioners of Lunacy, or to a special general inspecting official.",
+              "id": "f007-s-u10"
             }
           ],
           "notes": []
@@ -244,9 +464,29 @@
           "status": "transcribed",
           "units": [
             {
-              "kind": "prose",
-              "text": "E. C. SEGUIN.\n\nThere are, I have reason to believe, many families who would\nmuch prefer to keep their insane in this manner, at a reasonable\ncost, who are made to shudder at the mere mention of an asylum,\nwhose long and desolate corridors they see in imagination, whose\nlocks and keys they almost think they can hear, and whose deteri-\norating influences upon patients they more than half suspect.\n\nWhile expressing the above views I also desire to state just as\nclearly my belief that certain cases of insanity, more especially acute\nmania or melancholia, all psychoses accompanied by homicidal,\nsuicidal or marked destructive tendencies, should be placed as\nquickly as the law will allow in confinement. But even here we\nmay implore that the confinement may be made as easy as possi-\nble for the unfortunate patient, who is, contrary to public preju-\ndice, just as much a sick man as if he had phthisis or a chronic\nulcer; and that all the barbarous means of corporeal restraint,\nsuch as cribs, jackets, straps, etc., shall be radically done away\nwith as asylum implements, as a part of the nosocomial arma-\nmentarium, and only applied by express directions of the medical\nofficer in exceptional cases, very much in the same way as we\nresort to heroic medication or surgical procedures in general\n\npractice.\nIf you will pardon a simile, I would say that I look upon re-\nstraining apparatus in the treatment of insanity very much as upon\nthe lancet in the treatment of general diseases. The sight of re-\nstraining apparatus in an asylum seems to me as demoralizing\nand uncalled for, as would be the carrying of a lancet and the\ncelebrated palette by a physician of to-day in his hospital visit.\nBleeding is generally condemned, and so is physical restraint of\nthe insane, excepting in this country, and yet I will not deny but\nthat once in a while, under peculiar circumstances, both phlebot-\nomy and restraint are justifiable. Let us join in the hope that\n\nbefore many years both procedures will be equally rare.\nI desire to close this essay by reference to the opinions of much\nabler men, and much more expert specialists than myself upon\nthis subject. And I believe that the gentlemen whose views I am\nto quote are so eminent in their specialty that the most bigoted",
+              "kind": "running-head",
+              "text": "E. C. SEGUIN.",
               "id": "f008-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "There are, I have reason to believe, many families who would\nmuch prefer to keep their insane in this manner, at a reasonable\ncost, who are made to shudder at the mere mention of an asylum,\nwhose long and desolate corridors they see in imagination, whose\nlocks and keys they almost think they can hear, and whose deteri-\norating influences upon patients they more than half suspect.",
+              "id": "f008-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "While expressing the above views I also desire to state just as\nclearly my belief that certain cases of insanity, more especially acute\nmania or melancholia, all psychoses accompanied by homicidal,\nsuicidal or marked destructive tendencies, should be placed as\nquickly as the law will allow in confinement. But even here we\nmay implore that the confinement may be made as easy as possi-\nble for the unfortunate patient, who is, contrary to public preju-\ndice, just as much a sick man as if he had phthisis or a chronic\nulcer; and that all the barbarous means of corporeal restraint,\nsuch as cribs, jackets, straps, etc., shall be radically done away\nwith as asylum implements, as a part of the nosocomial arma-\nmentarium, and only applied by express directions of the medical\nofficer in exceptional cases, very much in the same way as we\nresort to heroic medication or surgical procedures in general",
+              "id": "f008-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "practice.\nIf you will pardon a simile, I would say that I look upon re-\nstraining apparatus in the treatment of insanity very much as upon\nthe lancet in the treatment of general diseases. The sight of re-\nstraining apparatus in an asylum seems to me as demoralizing\nand uncalled for, as would be the carrying of a lancet and the\ncelebrated palette by a physician of to-day in his hospital visit.\nBleeding is generally condemned, and so is physical restraint of\nthe insane, excepting in this country, and yet I will not deny but\nthat once in a while, under peculiar circumstances, both phlebot-\nomy and restraint are justifiable. Let us join in the hope that",
+              "id": "f008-s-u04"
+            },
+            {
+              "kind": "text",
+              "text": "before many years both procedures will be equally rare.\nI desire to close this essay by reference to the opinions of much\nabler men, and much more expert specialists than myself upon\nthis subject. And I believe that the gentlemen whose views I am\nto quote are so eminent in their specialty that the most bigoted",
+              "id": "f008-s-u05"
             }
           ],
           "notes": []
@@ -274,9 +514,39 @@
           "status": "transcribed",
           "units": [
             {
-              "kind": "prose",
-              "text": "THE RIGHT OF THE INSANE TO LIBERTY.\n\ndefender of our present prison system of asylums cannot question\ntheir right to be considered as foremost authorities.\n\nDr. Henry Maudsley, who has held almost every possible offi-\ncial position in relation to insane administration in England, and\nwho is justly regarded as one of the most distinguished European\nalienists, expressed himself as follows years ago. I quote from\nthe second edition of “The Physiology and Pathology of the\nMind,” London, 1868.\n\n“To be a lunatic, as public sentiment goes, is to be cut off so-\ncially from humanity. With such feeling prevalent with regard to\nthe insane, can it be thought possible that the treatment, at pres-\nent sanctioned by general approbation, should be the most just\nand humane possible. The feeling is one which cannot be justi-\nfied, and the system which it inspires cannot be just. That sys-\ntem is the system of indiscriminate sequestration—of locking up\na person in an asylum simply because he is mad.\n\n“Now I believe this practice to spring out of an unjust feeling,\nas already said, and to be founded on false principle, as I shall now\nendeavor to show. The principle which guides the present prac-\ntice is that an insane person, by the simple warrant of his insanity,\nshould be shut up in an asylum, the exceptions being made of\nparticular cases. This I hold to be an erroneous principle. The\ntrue principle to guide our practice should be this: that no one,\nsane or insane, should ever be entirely deprived of his liberty,\nunless for his own protection or for the protection of society.”\n(pp. 494–495.)\n\n“I venture, indeed, to affirm in opposition to it, that there are\nmany chronic and incurable insane persons, neither dangerous to\nthemselves nor to others, who are at present confined in asylums,\nand who might as well be at large.” (p. 495.)\n\n“Another objection to the liberation advocated will be, that\nthe insane in private houses will not be as well cared for as they\nare, nor have any more comfort than they now have, in well-\nconducted asylums. The quarter from which this objection is\nurged taints it with suspicion; I never heard it put forward but\nby those who are interested in the continuance of the present",
+              "kind": "running-head",
+              "text": "THE RIGHT OF THE INSANE TO LIBERTY.",
               "id": "f009-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "defender of our present prison system of asylums cannot question\ntheir right to be considered as foremost authorities.",
+              "id": "f009-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "Dr. Henry Maudsley, who has held almost every possible offi-\ncial position in relation to insane administration in England, and\nwho is justly regarded as one of the most distinguished European\nalienists, expressed himself as follows years ago. I quote from\nthe second edition of “The Physiology and Pathology of the\nMind,” London, 1868.",
+              "id": "f009-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "“To be a lunatic, as public sentiment goes, is to be cut off so-\ncially from humanity. With such feeling prevalent with regard to\nthe insane, can it be thought possible that the treatment, at pres-\nent sanctioned by general approbation, should be the most just\nand humane possible. The feeling is one which cannot be justi-\nfied, and the system which it inspires cannot be just. That sys-\ntem is the system of indiscriminate sequestration—of locking up\na person in an asylum simply because he is mad.",
+              "id": "f009-s-u04"
+            },
+            {
+              "kind": "text",
+              "text": "“Now I believe this practice to spring out of an unjust feeling,\nas already said, and to be founded on false principle, as I shall now\nendeavor to show. The principle which guides the present prac-\ntice is that an insane person, by the simple warrant of his insanity,\nshould be shut up in an asylum, the exceptions being made of\nparticular cases. This I hold to be an erroneous principle. The\ntrue principle to guide our practice should be this: that no one,\nsane or insane, should ever be entirely deprived of his liberty,\nunless for his own protection or for the protection of society.”\n(pp. 494–495.)",
+              "id": "f009-s-u05"
+            },
+            {
+              "kind": "text",
+              "text": "“I venture, indeed, to affirm in opposition to it, that there are\nmany chronic and incurable insane persons, neither dangerous to\nthemselves nor to others, who are at present confined in asylums,\nand who might as well be at large.” (p. 495.)",
+              "id": "f009-s-u06"
+            },
+            {
+              "kind": "text",
+              "text": "“Another objection to the liberation advocated will be, that\nthe insane in private houses will not be as well cared for as they\nare, nor have any more comfort than they now have, in well-\nconducted asylums. The quarter from which this objection is\nurged taints it with suspicion; I never heard it put forward but\nby those who are interested in the continuance of the present",
+              "id": "f009-s-u07"
             }
           ],
           "notes": []
@@ -304,9 +574,39 @@
           "status": "transcribed",
           "units": [
             {
-              "kind": "prose",
-              "text": "E. C. SEGUIN.\n\nstate of things. Those who make it, appear to fail entirely to ap-\npreciate the strength of the passion for liberty which there is in\nthe human breast; and as assuredly there are but very few per-\nsons who would not infinitely prefer a garret or a cellar for lodg-\nings, with bread and water only for food, to being clothed in pur-\nple and fine linen, and faring sumptously every day as prisoners. I\ncan well believe that all the comforts which the insane person has\nin his captivity, are but a miserable compensation for his entire\nloss of liberty, that they are petty things, which weigh not at all\nagainst the mighty suffering of a life-long imprisonment.” (pp.\n496–497.)\n\n“For the reasons adduced, I cannot but think that future pro-\ngress in the improvement of the treatment of the insane, lies in\nthe direction of lessening the sequestration and increasing the\nliberty of them.” (p. 501.)\n\n“Not the least of the evils of our present monstrous asylums,\nis the entire impossibility of anything like individual treatment in\nthem.” (p. 502.)\n\n“Indeed, I cannot help feeling, from my experience, that one\neffect of asylums is to make some permanent lunatics. * * *\nAnd I can certainly call to mind more than one instance in\nwhich I thoroughly believe that the removal of a patient from an\nasylum was the salvation of his reason.” (p. 503.)\n\nOur distinguished countryman, Dr. Samuel G. Howe, every-\nwhere known for his philanthropic efforts, enters a noble protest\nagainst the unnecessary restraint of lunatics by confinement to\nasylums, in the Sixth Annual Report of the State Board of Char-\nities of Massachusetts, for 1869. I quote:\n\n“Yes, disguise it as we may, we do keep under unnecessary\nrestraint and in a sort of slavery, a multitude of unfortunates who\nsigh for liberty, and to whom it would be very sweet. Their ap-\npearance of quiet and their seeming acquiescence are oftentimes\nutterly deceptive. Bewildered, doubtful of their own power of\nself-guidance, half conscious of insanity, still they know enough\nto know that the whole power of society holds them in its grip,\nand they resign themselves in despair.” (p. lxxxvii.)",
+              "kind": "running-head",
+              "text": "E. C. SEGUIN.",
               "id": "f010-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "state of things. Those who make it, appear to fail entirely to ap-\npreciate the strength of the passion for liberty which there is in\nthe human breast; and as assuredly there are but very few per-\nsons who would not infinitely prefer a garret or a cellar for lodg-\nings, with bread and water only for food, to being clothed in pur-\nple and fine linen, and faring sumptously every day as prisoners. I\ncan well believe that all the comforts which the insane person has\nin his captivity, are but a miserable compensation for his entire\nloss of liberty, that they are petty things, which weigh not at all\nagainst the mighty suffering of a life-long imprisonment.” (pp.\n496–497.)",
+              "id": "f010-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "“For the reasons adduced, I cannot but think that future pro-\ngress in the improvement of the treatment of the insane, lies in\nthe direction of lessening the sequestration and increasing the\nliberty of them.” (p. 501.)",
+              "id": "f010-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "“Not the least of the evils of our present monstrous asylums,\nis the entire impossibility of anything like individual treatment in\nthem.” (p. 502.)",
+              "id": "f010-s-u04"
+            },
+            {
+              "kind": "text",
+              "text": "“Indeed, I cannot help feeling, from my experience, that one\neffect of asylums is to make some permanent lunatics. * * *\nAnd I can certainly call to mind more than one instance in\nwhich I thoroughly believe that the removal of a patient from an\nasylum was the salvation of his reason.” (p. 503.)",
+              "id": "f010-s-u05"
+            },
+            {
+              "kind": "text",
+              "text": "Our distinguished countryman, Dr. Samuel G. Howe, every-\nwhere known for his philanthropic efforts, enters a noble protest\nagainst the unnecessary restraint of lunatics by confinement to\nasylums, in the Sixth Annual Report of the State Board of Char-\nities of Massachusetts, for 1869. I quote:",
+              "id": "f010-s-u06"
+            },
+            {
+              "kind": "text",
+              "text": "“Yes, disguise it as we may, we do keep under unnecessary\nrestraint and in a sort of slavery, a multitude of unfortunates who\nsigh for liberty, and to whom it would be very sweet. Their ap-\npearance of quiet and their seeming acquiescence are oftentimes\nutterly deceptive. Bewildered, doubtful of their own power of\nself-guidance, half conscious of insanity, still they know enough\nto know that the whole power of society holds them in its grip,\nand they resign themselves in despair.” (p. lxxxvii.)",
+              "id": "f010-s-u07"
             }
           ],
           "notes": []
@@ -334,9 +634,54 @@
           "status": "transcribed",
           "units": [
             {
-              "kind": "prose",
-              "text": "THE RIGHT OF THE INSANE TO LIBERTY.\n\n“It would be folly to deny that restraint by walls, by iron\nsashes, by oaken doors and by constant guard is necessary for a\ncertain class of patients under our mode of treatment. But it is\nequal folly to maintain that it is necessary for all, or for nine-\ntenths; and if not necessary, upon what ground can we defend\nour violation of a right which the lunatic never forfeited?\n\nIt is sinful and criminal to abridge unnecessarily the freedom\nof an innocent man; and it is, moreover, cowardly and cruel to\nabridge that of an unfortunate lunatic.” (p. lxxxix.)\n\nIn the next place I quote from G. Fielding Blandford’s work\non “Insanity and its Treatment,” London edition, 1870, Amer-\nican edition, 1871. He says:\n\n“Doubtless, you have all heard of the moral treatment of\ninsanity, but shutting a man up in an asylum can hardly be called\nmoral treatment.” (p. 379.)\n\n“In asylums they dwelt from year to year, a few walking be-\nyond the premises, but none sleeping beyond, or going to any\nplaces of amusement like ordinary men. Now, from all asylums\npatients are sent to the sea-side, to the theatre, the picture gal-\nleries, and each proprietor vies with his fellows in providing\nrecreation and entertainment for his patients—in proving, in fact,\nhow little they need the restraint of an asylum.” (p. 383.)\n\n[The above passage applies only to a special class of private\nasylums in Great Britain, but its bearing on the general question\nis obvious.]\n\n“As the last generation did away with the fetters and mechan-\nical restraint used in asylums, so let the present release from the\nrestraint of an asylum all those capable of enjoying a larger\namount of liberty and a freer atmosphere than that in which they\nnow fret and chafe.” (p. 385.)\n\nDr. John Charles Bucknill is known to the profession in this\ncountry as an eminent authority upon the topic in hand.\n\nHe has this spring given us in book-form the series of papers\non Lunacy Law Reform which appeared in the British Medical\nJournal in 1879. The purpose of these papers is mainly warfare\nupon the private or proprietary asylums as they flourish in Eng-",
+              "kind": "running-head",
+              "text": "THE RIGHT OF THE INSANE TO LIBERTY.",
               "id": "f011-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "“It would be folly to deny that restraint by walls, by iron\nsashes, by oaken doors and by constant guard is necessary for a\ncertain class of patients under our mode of treatment. But it is\nequal folly to maintain that it is necessary for all, or for nine-\ntenths; and if not necessary, upon what ground can we defend\nour violation of a right which the lunatic never forfeited?",
+              "id": "f011-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "It is sinful and criminal to abridge unnecessarily the freedom\nof an innocent man; and it is, moreover, cowardly and cruel to\nabridge that of an unfortunate lunatic.” (p. lxxxix.)",
+              "id": "f011-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "In the next place I quote from G. Fielding Blandford’s work\non “Insanity and its Treatment,” London edition, 1870, Amer-\nican edition, 1871. He says:",
+              "id": "f011-s-u04"
+            },
+            {
+              "kind": "text",
+              "text": "“Doubtless, you have all heard of the moral treatment of\ninsanity, but shutting a man up in an asylum can hardly be called\nmoral treatment.” (p. 379.)",
+              "id": "f011-s-u05"
+            },
+            {
+              "kind": "text",
+              "text": "“In asylums they dwelt from year to year, a few walking be-\nyond the premises, but none sleeping beyond, or going to any\nplaces of amusement like ordinary men. Now, from all asylums\npatients are sent to the sea-side, to the theatre, the picture gal-\nleries, and each proprietor vies with his fellows in providing\nrecreation and entertainment for his patients—in proving, in fact,\nhow little they need the restraint of an asylum.” (p. 383.)",
+              "id": "f011-s-u06"
+            },
+            {
+              "kind": "text",
+              "text": "[The above passage applies only to a special class of private\nasylums in Great Britain, but its bearing on the general question\nis obvious.]",
+              "id": "f011-s-u07"
+            },
+            {
+              "kind": "text",
+              "text": "“As the last generation did away with the fetters and mechan-\nical restraint used in asylums, so let the present release from the\nrestraint of an asylum all those capable of enjoying a larger\namount of liberty and a freer atmosphere than that in which they\nnow fret and chafe.” (p. 385.)",
+              "id": "f011-s-u08"
+            },
+            {
+              "kind": "text",
+              "text": "Dr. John Charles Bucknill is known to the profession in this\ncountry as an eminent authority upon the topic in hand.",
+              "id": "f011-s-u09"
+            },
+            {
+              "kind": "text",
+              "text": "He has this spring given us in book-form the series of papers\non Lunacy Law Reform which appeared in the British Medical\nJournal in 1879. The purpose of these papers is mainly warfare\nupon the private or proprietary asylums as they flourish in Eng-",
+              "id": "f011-s-u10"
             }
           ],
           "notes": []
@@ -364,9 +709,44 @@
           "status": "transcribed",
           "units": [
             {
-              "kind": "prose",
-              "text": "E. C. SEGUIN.\n\nland, but scattered throughout the volume are numerous passages\nproving how thoroughly Dr. Bucknill, after a most varied experi-\nence with the insane and with asylums, coincides with Dr. Mauds-\nley in the opinion that for many cases of insanity or mental un-\nsoundness confinement to an asylum, subjection to asylum routine\nand deprivation of liberty and social enjoyments are cruel and\nlegally unjustifiable.\n\nI quote a few sentences only:\n\n“Custom-blindness (which is more than color-blindness, be-\ncause it blurs the outline of things as they are) often leads official\npeople to associate unsoundness of mind with detention under\ncare and treatment as correlative if not identical conditions; but\nwith the general public it is not so, and still less with the medical\nprofession, and still less again with that of the law.” (pp. 25–26.)\n\n“* * * And, therefore, it would appear to be imperative\nto a proper certification of a lunatic for detention in an asylum\nthat the reasons for which such detention is needful should be\nfully stated upon the face of the documents, and distinguished\nfrom the facts which simply indicate lunacy.” (p. 26.)\n\n“But it is not merely the happy change which takes place in\nconfirmed lunatics when they are judiciously removed from the\ndreary detention of the asylum into domestic life, it is the effi-\nciency of the domestic treatment of lunacy during the whole\ncourse of the disease, which constitutes its greatest value, and of\nthis the author’s fullest and latest experience has convinced him\nthat the curative influences of asylums have been vastly overrated,\nand that those of isolated treatment in domestic care have been\ngreatly undervalued.” (p. 114.)\n\n“Many a suicidal patient can live as safely with two faithful\nand skillful attendants in a villa or cottage as in any asylum, and\nin the free air he will walk or drive, employ or amuse himself in\nvarious ways, and recover without the asylum brand or the asylum\ndanger of falling more and more into subjective ways of thought\nand shunting into the sad list of incurables.” (p. 116.)\n\nE. C. SEGUIN.",
+              "kind": "running-head",
+              "text": "E. C. SEGUIN.",
               "id": "f012-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "land, but scattered throughout the volume are numerous passages\nproving how thoroughly Dr. Bucknill, after a most varied experi-\nence with the insane and with asylums, coincides with Dr. Mauds-\nley in the opinion that for many cases of insanity or mental un-\nsoundness confinement to an asylum, subjection to asylum routine\nand deprivation of liberty and social enjoyments are cruel and\nlegally unjustifiable.",
+              "id": "f012-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "I quote a few sentences only:",
+              "id": "f012-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "“Custom-blindness (which is more than color-blindness, be-\ncause it blurs the outline of things as they are) often leads official\npeople to associate unsoundness of mind with detention under\ncare and treatment as correlative if not identical conditions; but\nwith the general public it is not so, and still less with the medical\nprofession, and still less again with that of the law.” (pp. 25–26.)",
+              "id": "f012-s-u04"
+            },
+            {
+              "kind": "text",
+              "text": "“* * * And, therefore, it would appear to be imperative\nto a proper certification of a lunatic for detention in an asylum\nthat the reasons for which such detention is needful should be\nfully stated upon the face of the documents, and distinguished\nfrom the facts which simply indicate lunacy.” (p. 26.)",
+              "id": "f012-s-u05"
+            },
+            {
+              "kind": "text",
+              "text": "“But it is not merely the happy change which takes place in\nconfirmed lunatics when they are judiciously removed from the\ndreary detention of the asylum into domestic life, it is the effi-\nciency of the domestic treatment of lunacy during the whole\ncourse of the disease, which constitutes its greatest value, and of\nthis the author’s fullest and latest experience has convinced him\nthat the curative influences of asylums have been vastly overrated,\nand that those of isolated treatment in domestic care have been\ngreatly undervalued.” (p. 114.)",
+              "id": "f012-s-u06"
+            },
+            {
+              "kind": "text",
+              "text": "“Many a suicidal patient can live as safely with two faithful\nand skillful attendants in a villa or cottage as in any asylum, and\nin the free air he will walk or drive, employ or amuse himself in\nvarious ways, and recover without the asylum brand or the asylum\ndanger of falling more and more into subjective ways of thought\nand shunting into the sad list of incurables.” (p. 116.)",
+              "id": "f012-s-u07"
+            },
+            {
+              "kind": "signature",
+              "text": "E. C. SEGUIN.",
+              "id": "f012-s-u08"
             }
           ],
           "notes": [
@@ -422,9 +802,94 @@
           "status": "transcribed",
           "units": [
             {
-              "kind": "prose",
-              "text": "ARCHIVES OF MEDICINE FOR 1880.\n\nA BI-MONTHLY JOURNAL.\n\nEdited by Dr. E. C. SEGUIN, in conjunction with THOMAS A. McBRIDE, M.D., Lecturer on\nSymptomatology in the College of Physicians and Surgeons, New York, in charge of general medi-\ncine; MATTHEW D. MANN, M.D., of Hartford, Ct., Clinical Lecturer in Gynecology in the\nMedical Department of Yale College, in charge of Obstetrics, and Diseases of Women and Chil-\ndren; and LEWIS A. STIMSON, M.D., Professor of Pathological Anatomy in the Medical Depart-\nment of the University of New York, in charge of Surgery.\n\nThe Archives of Medicine will continue to be published every two months.\n\nEach number is handsomely printed in large octavo form on heavy paper, and the articles are\nliberally illustrated whenever their subjects render this desirable.\n\nThe Archives will not be a neutral or impersonal journal. The views of its Editorial staff\nupon topics of current interest and upon books will be expressed without favor or enmity, over the\nwriters’ initials or full names.\n\nPrior to entering upon the second year of the Archives existence, the Editor does not desire\nto make any loud promises of things to be done, but prefers simply to point to what has appeared\nin its columns, and to call the attention of the profession to the list of physicians who have ex-\npressed their intention to be collaborators.\n\nAmong Original Articles published in the first five numbers of the Archives, we may cite the\nfollowing as possessed of general interest.\n\nSupplementary Rectal Alimentation by Dr. A. H. SMITH; The Self-limitation of Phthisis by\nDr. AUSTIN FLINT, Sr.; Fibroids of the Uterus by Dr. T. G. THOMAS; Phthisis Pulmonalis by\nDr. J. R. LEAMING; The Pathological Anatomy of Tetanus by Dr. R. W. AMIDON; A Contribu-\ntion to the Study of Cancer of the Rectum by Dr. L. A. STIMSON; The Use of the Actual Cautery\nin Medicine by the EDITOR; Diarrhœa, Entero-colitis and Cholera Infantum by Dr. J. L. TEED;\nPsycho-physiological Training of an Idiotic Hand by Dr. EDWARD SEGUIN; and Mr. DELAFIELD’S\nseries of Lessons upon Electricity.\n\nThe five EDITORIAL ARTICLES have treated of the following subjects: The Present Aspect\nof the Question of Tetanoid Paraplegia by the EDITOR; The Utility of the Sphygmograph in\nMedicine by Dr. THOMAS A. McBRIDE; Obstetrics in Siam by Dr. SAM’L R. HOUSE; Ulceration\nof the Cervix Uteri by Dr. MATTHEW D. MANN; Lunacy Reform, Historical Considerations by\nthe EDITOR.\n\nIn the Department for Original Observations twenty valuable cases have been recorded, several\nof which might have formed the basis of original articles.\n\nCOLLABORATORS.\n\nLondon.—Drs. J. HUGHLINGS JACKSON, J. BURDON-SANDERSON, and SYDNEY RINGER.\nParis.—Profs. J. M. CHARCOT, J. MAREY, and A. OLLIVIER.\nGermany.—Prof. Dr. W. ERB, of Heidelberg.\nPhiladelphia.—Profs. D. HAYES AGNEW, M.D., J. M. DA COSTA, M.D., WILLIAM GOODELL, M.D., ROBERTS BAR-\nTHOLOW, M.D., S. W. GROSS, M.D., and Drs. THOS. G. MORTON, E. O. SHAKESPEARE, and J. C. WILSON.\nBoston.—Drs. JAMES R. CHADWICK, CHARLES P. PUTNAM, JAMES J. PUTNAM, SAMUEL R. WEBBER.\nBaltimore.—Prof. E. T. MILES, M.D.\nHartford, Conn.—Dr. SAMUEL B. ST. JOHN.\nAlbany, N. Y.—Prof. SAMUEL B. WARD, M.D.\n\nNEW YORK CITY AND BROOKLYN:\n\nProf. C. R. AGNEW, M.D., Prof. FORDYCE BARKER, M.D., Prof. FRANCIS DELAFIELD, M.D., Prof. W. D.\nDRAPER, M.D., Prof. AUSTIN FLINT, Sr., M.D., Prof. WILLIAM A. HAMMOND, M.D., Prof. A. JACOBI, M.D., Prof.\nMARY PUTNAM JACOBI, M.D., Prof. E. G. JANEWAY, M.D., Prof. E. L. KEYES, M.D., Prof. ALFRED L. LOOMIS,\nM.D., Prof. F. N. OTIS, M.D., Prof. M. A. PALLEN, M.D., Prof. THOS. R. POOLEY, M.D., Prof. D. B. ST. J. ROOSA,\nM.D., Prof. H. B. SANDS, M.D., Prof. A. J. C. SKENE, M.D., Prof. R. W. TAYLOR, M.D., Prof. T. GAILLARD\nTHOMAS, M.D., Prof. W. H. VAN BUREN, M.D., Dr. R. W. AMIDON, Dr. WM. T. BULL, A. FLOYD DELAFIELD,\nA.B., Dr. H. J. GARRIGUES, Dr. V. P. GIBNEY, Dr. L. CARTER GRAY, Dr. E. GRUENING, Dr. C. HEITZMANN, Dr.\nF. P. KINNICUTT, Dr. JAS. R. LEAMING, Dr. C. C. LEE, Dr. P. F. MUNDÉ, Dr. J. C. PERRY, Dr. N. M. SHAFFER,\nDr. J. C. SHAW, Dr. J. MARION SIMS, Dr. A. H. SMITH, Dr. E. C. SPITZKA, Dr. CLINTON WAGNER, Dr. ROBERT\nWATTS, Dr. DAVID WEBSTER, Dr. R. F. WEIR, and the Editorial Staff.\n\nSubscription, per year, $3 00. Price, per number, 60 cts. Specimen number sent on receipt of 25 cts.\n\nG. P. PUTNAM’S SONS, Publishers,\n\n182 FIFTH AVENUE,                                              NEW YORK.",
+              "kind": "heading",
+              "text": "ARCHIVES OF MEDICINE FOR 1880.",
               "id": "f014-s-u01"
+            },
+            {
+              "kind": "text",
+              "text": "A BI-MONTHLY JOURNAL.",
+              "id": "f014-s-u02"
+            },
+            {
+              "kind": "text",
+              "text": "Edited by Dr. E. C. SEGUIN, in conjunction with THOMAS A. McBRIDE, M.D., Lecturer on\nSymptomatology in the College of Physicians and Surgeons, New York, in charge of general medi-\ncine; MATTHEW D. MANN, M.D., of Hartford, Ct., Clinical Lecturer in Gynecology in the\nMedical Department of Yale College, in charge of Obstetrics, and Diseases of Women and Chil-\ndren; and LEWIS A. STIMSON, M.D., Professor of Pathological Anatomy in the Medical Depart-\nment of the University of New York, in charge of Surgery.",
+              "id": "f014-s-u03"
+            },
+            {
+              "kind": "text",
+              "text": "The Archives of Medicine will continue to be published every two months.",
+              "id": "f014-s-u04"
+            },
+            {
+              "kind": "text",
+              "text": "Each number is handsomely printed in large octavo form on heavy paper, and the articles are\nliberally illustrated whenever their subjects render this desirable.",
+              "id": "f014-s-u05"
+            },
+            {
+              "kind": "text",
+              "text": "The Archives will not be a neutral or impersonal journal. The views of its Editorial staff\nupon topics of current interest and upon books will be expressed without favor or enmity, over the\nwriters’ initials or full names.",
+              "id": "f014-s-u06"
+            },
+            {
+              "kind": "text",
+              "text": "Prior to entering upon the second year of the Archives existence, the Editor does not desire\nto make any loud promises of things to be done, but prefers simply to point to what has appeared\nin its columns, and to call the attention of the profession to the list of physicians who have ex-\npressed their intention to be collaborators.",
+              "id": "f014-s-u07"
+            },
+            {
+              "kind": "text",
+              "text": "Among Original Articles published in the first five numbers of the Archives, we may cite the\nfollowing as possessed of general interest.",
+              "id": "f014-s-u08"
+            },
+            {
+              "kind": "text",
+              "text": "Supplementary Rectal Alimentation by Dr. A. H. SMITH; The Self-limitation of Phthisis by\nDr. AUSTIN FLINT, Sr.; Fibroids of the Uterus by Dr. T. G. THOMAS; Phthisis Pulmonalis by\nDr. J. R. LEAMING; The Pathological Anatomy of Tetanus by Dr. R. W. AMIDON; A Contribu-\ntion to the Study of Cancer of the Rectum by Dr. L. A. STIMSON; The Use of the Actual Cautery\nin Medicine by the EDITOR; Diarrhœa, Entero-colitis and Cholera Infantum by Dr. J. L. TEED;\nPsycho-physiological Training of an Idiotic Hand by Dr. EDWARD SEGUIN; and Mr. DELAFIELD’S\nseries of Lessons upon Electricity.",
+              "id": "f014-s-u09"
+            },
+            {
+              "kind": "text",
+              "text": "The five EDITORIAL ARTICLES have treated of the following subjects: The Present Aspect\nof the Question of Tetanoid Paraplegia by the EDITOR; The Utility of the Sphygmograph in\nMedicine by Dr. THOMAS A. McBRIDE; Obstetrics in Siam by Dr. SAM’L R. HOUSE; Ulceration\nof the Cervix Uteri by Dr. MATTHEW D. MANN; Lunacy Reform, Historical Considerations by\nthe EDITOR.",
+              "id": "f014-s-u10"
+            },
+            {
+              "kind": "text",
+              "text": "In the Department for Original Observations twenty valuable cases have been recorded, several\nof which might have formed the basis of original articles.",
+              "id": "f014-s-u11"
+            },
+            {
+              "kind": "text",
+              "text": "COLLABORATORS.",
+              "id": "f014-s-u12"
+            },
+            {
+              "kind": "text",
+              "text": "London.—Drs. J. HUGHLINGS JACKSON, J. BURDON-SANDERSON, and SYDNEY RINGER.\nParis.—Profs. J. M. CHARCOT, J. MAREY, and A. OLLIVIER.\nGermany.—Prof. Dr. W. ERB, of Heidelberg.\nPhiladelphia.—Profs. D. HAYES AGNEW, M.D., J. M. DA COSTA, M.D., WILLIAM GOODELL, M.D., ROBERTS BAR-\nTHOLOW, M.D., S. W. GROSS, M.D., and Drs. THOS. G. MORTON, E. O. SHAKESPEARE, and J. C. WILSON.\nBoston.—Drs. JAMES R. CHADWICK, CHARLES P. PUTNAM, JAMES J. PUTNAM, SAMUEL R. WEBBER.\nBaltimore.—Prof. E. T. MILES, M.D.\nHartford, Conn.—Dr. SAMUEL B. ST. JOHN.\nAlbany, N. Y.—Prof. SAMUEL B. WARD, M.D.",
+              "id": "f014-s-u13"
+            },
+            {
+              "kind": "text",
+              "text": "NEW YORK CITY AND BROOKLYN:",
+              "id": "f014-s-u14"
+            },
+            {
+              "kind": "text",
+              "text": "Prof. C. R. AGNEW, M.D., Prof. FORDYCE BARKER, M.D., Prof. FRANCIS DELAFIELD, M.D., Prof. W. D.\nDRAPER, M.D., Prof. AUSTIN FLINT, Sr., M.D., Prof. WILLIAM A. HAMMOND, M.D., Prof. A. JACOBI, M.D., Prof.\nMARY PUTNAM JACOBI, M.D., Prof. E. G. JANEWAY, M.D., Prof. E. L. KEYES, M.D., Prof. ALFRED L. LOOMIS,\nM.D., Prof. F. N. OTIS, M.D., Prof. M. A. PALLEN, M.D., Prof. THOS. R. POOLEY, M.D., Prof. D. B. ST. J. ROOSA,\nM.D., Prof. H. B. SANDS, M.D., Prof. A. J. C. SKENE, M.D., Prof. R. W. TAYLOR, M.D., Prof. T. GAILLARD\nTHOMAS, M.D., Prof. W. H. VAN BUREN, M.D., Dr. R. W. AMIDON, Dr. WM. T. BULL, A. FLOYD DELAFIELD,\nA.B., Dr. H. J. GARRIGUES, Dr. V. P. GIBNEY, Dr. L. CARTER GRAY, Dr. E. GRUENING, Dr. C. HEITZMANN, Dr.\nF. P. KINNICUTT, Dr. JAS. R. LEAMING, Dr. C. C. LEE, Dr. P. F. MUNDÉ, Dr. J. C. PERRY, Dr. N. M. SHAFFER,\nDr. J. C. SHAW, Dr. J. MARION SIMS, Dr. A. H. SMITH, Dr. E. C. SPITZKA, Dr. CLINTON WAGNER, Dr. ROBERT\nWATTS, Dr. DAVID WEBSTER, Dr. R. F. WEIR, and the Editorial Staff.",
+              "id": "f014-s-u15"
+            },
+            {
+              "kind": "text",
+              "text": "Subscription, per year, $3 00. Price, per number, 60 cts. Specimen number sent on receipt of 25 cts.",
+              "id": "f014-s-u16"
+            },
+            {
+              "kind": "text",
+              "text": "G. P. PUTNAM’S SONS, Publishers,",
+              "id": "f014-s-u17"
+            },
+            {
+              "kind": "text",
+              "text": "182 FIFTH AVENUE,                                              NEW YORK.",
+              "id": "f014-s-u18"
             }
           ],
           "notes": [
